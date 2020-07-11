@@ -1,0 +1,32 @@
+body {
+    background-color: #faeee7;
+    color: #59414e;
+    width: 500px;
+    margin-right: auto;
+    margin-left : auto;
+  }
+  #assessment {
+    padding: 3px 20px;
+    background-color: #ff8ba7;
+    color: #33272a;
+    border-style: none;
+  }
+  input {
+    width: 150px;
+    font-size: 100%;
+  }
+  #sakuhin-name{
+    width: 250px;
+    font-size: 100%;
+  }
+  #setume{
+    color: #000000;
+    font-size: 80%;
+  }
+  select {
+    height: 26px;
+    font-size: 100%; 
+}
+  ul{
+    font-size: 80%;
+  }
